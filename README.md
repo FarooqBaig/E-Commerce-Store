@@ -1,8 +1,18 @@
 # EcommerceStore
+Sample images
+## image 1
+![Screenshot (61)](https://github.com/FarooqBaig/E-Commerce-Store/assets/74425452/760906bc-2b8c-4c2a-8e2a-62a50c138c59)
 
-Watch tutorial on how I built this store => https://youtu.be/-QV07KcnJEk
+## image 2
+![Screenshot (62)](https://github.com/FarooqBaig/E-Commerce-Store/assets/74425452/32af7d72-8b5d-4a3d-864f-5fabce60201b)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+## image 3
+![Screenshot (63)](https://github.com/FarooqBaig/E-Commerce-Store/assets/74425452/53f538a1-b538-4c39-abd9-5d1661207bec)
+
+## image 4
+![Screenshot (64)](https://github.com/FarooqBaig/E-Commerce-Store/assets/74425452/0eb7995c-009c-4354-8db8-1c4317888b95)
+
+
 
 ## Development server
 
